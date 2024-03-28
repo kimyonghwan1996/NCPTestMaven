@@ -9,6 +9,7 @@
 <body>
 <h2>*** 메인화면 ***</h2>
 <h2>CI/CD연습</h2>
+<h2>좋은하루</h2>
 <h3>
 	<p><a href="/mini/user/writeForm">입력</a></p>
 	<p><a href="/mini/user/list?pg=1">출력</a></p>
